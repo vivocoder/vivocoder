@@ -40,7 +40,7 @@ I'm a creative Frontend Developer who loves turning ideas into fast, responsive,
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://instagram.com/codes18">
+  <a href="https://www.instagram.com/momin_sajid74/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" alt="Instagram"/>
   </a>
   &nbsp;
