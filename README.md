@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1672" height="941" alt="Neon Night Coding Sanctuary" src="https://github.com/user-attachments/assets/6d2e5b41-df02-4fe4-ac96-39c0e955c453" />
+  <img width="1672" height="652" alt="Neon Night Coding Sanctuary" src="https://github.com/user-attachments/assets/6d2e5b41-df02-4fe4-ac96-39c0e955c453" />
 </p>
 
 
